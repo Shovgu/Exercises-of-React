@@ -1,0 +1,15 @@
+body{
+    margin-left: 35%;
+    margin-top: 17%;
+    background-color: bisque;
+}
+h3{
+    font-size: 50px;
+    color: red;
+}
+p{
+    font-weight: bold;
+    color: brown;
+    margin-left: 8%;
+    font-size: 20px;
+}
